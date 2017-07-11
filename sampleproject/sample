@@ -1,4 +1,10 @@
 <html>
-<p>Hello! I am Cherry blossoms.</p>
-https://github.com/cherrymaeestrera/Sample.git
+<div>
+  <header>
+    <title>Sample Page</title>
+  </header>
+  <body>
+<h1 style="color: blue; background: red;">Hello! I am Cherry blossoms.</h1>
+  </body>
+</div>
 </html>
